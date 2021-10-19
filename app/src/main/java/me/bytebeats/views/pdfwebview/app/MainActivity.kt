@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
             javaScriptEnabled = true
             allowFileAccess = true
 
+            useWideViewPort = true
             builtInZoomControls = true
             setSupportZoom(true)
             displayZoomControls = true
